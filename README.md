@@ -23,6 +23,7 @@ La interfaz incluye un diseño limpio con enlaces a redes y un footer personaliz
 - Barra de progreso en tiempo real  
 
 ---
+<img width="1905" height="918" alt="Captura de pantalla 2025-10-15 152305" src="https://github.com/user-attachments/assets/dd047dcd-c4b0-4d5b-97b0-28c004fe5f13" />
 
 ## 🛠 Requisitos del sistema
 
@@ -40,4 +41,5 @@ Instala las dependencias de Python:
 
 ```bash
 pip install gradio yt-dlp
+
 
