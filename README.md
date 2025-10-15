@@ -1,5 +1,8 @@
 # 🎧 Skynisys Downloader
 
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 **Skynisys Downloader** es una aplicación web interactiva desarrollada con **Gradio** que permite:  
 
 - Descargar **reels de Instagram** y **Facebook**.  
@@ -37,3 +40,4 @@ Instala las dependencias de Python:
 
 ```bash
 pip install gradio yt-dlp
+
