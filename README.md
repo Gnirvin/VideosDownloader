@@ -29,7 +29,8 @@ Manejo de errores y logs de descarga
 
 Barra de progreso en tiempo real
 
-<img width="1905" height="918" alt="Captura de pantalla 2025-10-15 152305" src="https://github.com/user-attachments/assets/dd047dcd-c4b0-4d5b-97b0-28c004fe5f13" />
+<img width="1894" height="920" alt="Captura de pantalla 2025-10-24 161403" src="https://github.com/user-attachments/assets/223b64bc-4c61-4182-b8d8-34efaf4f2b36" />
+
 🛠 Requisitos del sistema
 
 Python >= 3.10
@@ -70,3 +71,4 @@ SoundCloud Audio
 Haz clic en Descargar y espera a que el progreso llegue al 100%.
 
 El archivo descargado aparecerá en la carpeta downloads con un nombre único.
+
